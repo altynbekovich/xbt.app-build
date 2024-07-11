@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9406b912.css",
+    "main.js": "/static/js/main.9039ae89.js",
+    "static/media/Group 48095531.svg": "/static/media/Group 48095531.3de40262d26a47c7ca9f5f93b270db44.svg",
+    "static/media/slider1-graphic1 1.svg": "/static/media/slider1-graphic1 1.3097b6b460f3421ab01ef976b257bfb9.svg",
+    "static/media/тень (1) (1).png": "/static/media/тень (1) (1).90c238e7f43f0ab7da0a.png",
+    "static/media/NunitoSans_7pt-ExtraBold.ttf": "/static/media/NunitoSans_7pt-ExtraBold.4a5d6556491c59216e34.ttf",
+    "static/media/NunitoSans_7pt-Light.ttf": "/static/media/NunitoSans_7pt-Light.86a3fc73d62aa4ef737b.ttf",
+    "static/media/NunitoSans_7pt-SemiBold.ttf": "/static/media/NunitoSans_7pt-SemiBold.9c621098613423154fdf.ttf",
+    "static/media/NunitoSans_7pt-Bold.ttf": "/static/media/NunitoSans_7pt-Bold.c2711dd0be4514a4eaf6.ttf",
+    "static/media/NunitoSans_7pt-Medium.ttf": "/static/media/NunitoSans_7pt-Medium.23e7a6fbf39113d4bda0.ttf",
+    "static/media/NunitoSans_7pt-Regular.ttf": "/static/media/NunitoSans_7pt-Regular.a02d444a210c95569024.ttf",
+    "static/media/Illustrations.svg": "/static/media/Illustrations.8c519fbcd228c32d5856ffc78f354607.svg",
+    "static/media/Group 48095520.svg": "/static/media/Group 48095520.f3d7f81bc548c831e66e48a723eb9cf6.svg",
+    "static/media/Group 48095505.svg": "/static/media/Group 48095505.b449f196dfc35674042711771069e612.svg",
+    "static/media/ic_logo.svg": "/static/media/ic_logo.79a22ce0b0c3969d2475f4531ce96591.svg",
+    "static/media/lock-security-open-svgrepo-com.svg": "/static/media/lock-security-open-svgrepo-com.b222de92f17fa1836199.b222de92f17fa1836199ce201f9901ad.svg",
+    "static/media/Union (1).svg": "/static/media/Union (1).d77b729dac2b7ee24f9d71b9eb759e21.svg",
+    "static/media/Subtract.svg": "/static/media/Subtract.ef3153baf3a688904f113fc6a00bf7e2.svg",
+    "static/media/Union.svg": "/static/media/Union.c2e7cee0433c22f606fdf4511a994cbf.svg",
+    "index.html": "/index.html",
+    "static/media/Union (2).svg": "/static/media/Union (2).2e9fcc57c971d4c7ff8b20199ed93247.svg",
+    "static/media/Expand_left.svg": "/static/media/Expand_left.c610a435a6230692c36d.svg",
+    "main.9406b912.css.map": "/static/css/main.9406b912.css.map",
+    "main.9039ae89.js.map": "/static/js/main.9039ae89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9406b912.css",
+    "static/js/main.9039ae89.js"
+  ]
+}
